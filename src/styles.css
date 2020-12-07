@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Dosis:wght@600&family=Yanone+Kaffeesatz&display=swap");
+.App {
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  max-width: 500px;
+  margin: auto;
+}
