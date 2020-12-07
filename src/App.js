@@ -18,7 +18,6 @@ export default function App() {
   var [musicArr, selectMusic] = useState([
     "Your Music will be displayed here!!!"
   ]);
-
   function musicSelector(value) {
     selectfunc(value);
     selectMusic(myDict[value]);
